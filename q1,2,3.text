@@ -1,0 +1,54 @@
+ q1
+ 
+    A  B  C  OUT
+    T  T  T  blue
+    F  T  T  yellow
+    T  F  T  green
+    F  F  T  yellow
+    T  T  F  yellow
+    F  T  F  yellow
+    T  F  F  red
+    F  F  F  yellow
+    
+   q2
+   
+   A  B  C  OUT 
+   T  T  T  blue
+   F  T  T  blue
+   T  F  T  blue
+   F  F  T  blue 
+   T  T  F  blue
+   F  T  F  blue 
+   T  F  F  blue 
+   F  F  F  blue 
+   
+   q3.1
+   A  B   OUT  
+   T  T  blue
+   F  T  blue 
+   T  F  _
+   F  F  _
+   
+   q3.2
+   
+   A  B  OUT 
+   T  T   _
+   F  T  green
+   T  F  green
+   F  F  green
+   
+   q3.3
+   
+   A  B  OUT
+   T  T  yellow
+   F  T  yellow
+   T  F  yellow
+   F  F  yellow
+   
+   q3.4
+   
+   A  B 
+   T  T  white
+   F  T  white
+   T  F  _
+F F white

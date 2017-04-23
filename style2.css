@@ -1,0 +1,15 @@
+#new {
+    list-style: square inside url("http://www.neo-geo.com/ubb/sqpurple.gif");
+}
+#para1 {
+    color: red;
+}
+.bold{
+    font-weight: bold;
+    }
+.thick {
+    font-weight: bold;
+    }
+.none {
+    list-style-type:none
+}
